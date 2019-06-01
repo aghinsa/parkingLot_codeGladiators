@@ -3,3 +3,7 @@
 *.pickle
 *.pkl
 *.weights
+*.zip
+**/dataset
+**/data
+*.tar.gz
