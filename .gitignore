@@ -1,0 +1,5 @@
+**/darknet
+**/final_weights
+*.pickle
+*.pkl
+*.weights
